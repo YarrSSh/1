@@ -1,0 +1,11 @@
+Материнская плата ASUS WS C422 SAGE/10G 68080
+Процессор Intel Core i9-10940X LGA2066 73860
+Оперативная память Micron 32 ГБ DDR4 2933 МГц x 4 58000
+Видеокарта GIGABYTE GeForce RTX 3090 Ti  99990
+Твердотельный накопитель Samsung 870 EVO 1 ТБ 10990
+Жесткий диск Western Digital Original WD8004FRYZ Gold 25720
+Система водяного охлаждения для процессора Cooler Master MasterLiquid ML360 ILLUSION 12370
+Компьютерный корпус Fractal Design Define XL R2 черный 16900
+Блок питания Zalman WATTTERA ZM1200-EBTII 1200W 14587 
+ 
+
